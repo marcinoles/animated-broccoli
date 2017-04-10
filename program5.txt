@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <conio.h>
 using namespace std;
- 
+ 555555555
  int pobierz(unsigned int liczba){
            if(liczba>1000)
            {
