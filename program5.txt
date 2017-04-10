@@ -83,4 +83,4 @@ cout << "POSZUKIWANIE LICZBY ZAJELO CI: " << czas << " SEKUND";
             }
  
 return 0;
-}
+}555555
