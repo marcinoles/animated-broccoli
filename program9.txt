@@ -57,4 +57,5 @@ public class RosnacyOkrag extends Applet implements ActionListener, Runnable
             repaint();
         } 
     }
+    999999999999
 }
