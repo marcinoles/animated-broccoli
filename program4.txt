@@ -1,10 +1,10 @@
 #include <iostream> 
 #include <conio.h> 
-using namespace std; 
+using namespace std; 4444444444
  
 int main() 
 { 
-    cout << "Witaj w programie PIANO. kliknij jakas liczbe od 1 do 10, aby ustawiæ interwal.\n"; 
+    cout << "Witaj w programie PIANO. kliknij jakas liczbe od 1 do 10, aby ustawiÃ¦ interwal.\n"; 
     cout << "'q' konczy program\n"; 
      
     char key; 
