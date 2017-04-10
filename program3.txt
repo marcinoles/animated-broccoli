@@ -2,7 +2,7 @@
  
 int main()
 {
- 
+ gfghfghollll
     using namespace std;
 int waga, wzrost;
 float bmi;

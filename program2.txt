@@ -1,8 +1,8 @@
 #include <iostream>
 #include <windows.h>
   #include <conio.h>
-     09899
-using namespace std;
+     1234
+09899using namespace std;
  
 double pobierz(int liczba){
        while(!(cin>>liczba)){
