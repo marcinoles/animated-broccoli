@@ -2,7 +2,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
- 
+ 9999999999
 public class RosnacyOkrag extends Applet implements ActionListener, Runnable
 {
     int szerokosc=1;
