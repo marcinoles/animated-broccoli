@@ -30,4 +30,4 @@ public class Lamana extends Applet
         }
         return true;
     }
-}
+}888888888888
