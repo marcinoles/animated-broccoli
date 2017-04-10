@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
   #include <conio.h>
-     1234
+  2222222   1234
 09899using namespace std;
  
 double pobierz(int liczba){
